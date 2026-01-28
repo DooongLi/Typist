@@ -7,7 +7,7 @@ DerivedData/
 xcuserdata/
 
 # App bundle (can be rebuilt)
-Typist.app/
+# Typist.app/
 
 # Claude
 .claude/
